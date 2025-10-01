@@ -10,7 +10,7 @@ Construir um Aplicativo do Zero - O CineFavorite permitirá criar uma conta e bu
 ## levantamento de Requistos do Projeto
 - ### Funcionais
 
-- ### não Fucionais
+- ### não Fucionaiss
 
 ## Recursos do Projeto
 - Flutter /Dart
